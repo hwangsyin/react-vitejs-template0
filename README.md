@@ -6,7 +6,7 @@ React + Vitejs 项目 codebase。
 
 pnpm<br>
 vitejs<br>
-React
+React 18
 
 ## 构建
 
